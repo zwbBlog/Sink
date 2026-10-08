@@ -7,7 +7,7 @@
     "directory": ".output/public",
     "html_handling": "drop-trailing-slash"
   },
-  "compatibility_date": "2025-05-08",
+  "compatibility_date": "2026-10-08",
   "compatibility_flags": [
     "nodejs_compat"
   ],
@@ -33,9 +33,9 @@
   ],
   "kv_namespaces": [
     {
-      "binding": "KV",
-      "preview_id": "ef93d42dc4b34969bab404d2e80f8dd3",
-      "id": "ef93d42dc4b34969bab404d2e80f8dd3" // IMPORTANT: Change this to your KV namespace ID
+      "binding": "sink",
+      "preview_id": "af8d5ba5fb5f4972af57b292bf547e74",
+      "id": "af8d5ba5fb5f4972af57b292bf547e74" // IMPORTANT: Change this to your KV namespace ID
     }
   ],
   "r2_buckets": [
